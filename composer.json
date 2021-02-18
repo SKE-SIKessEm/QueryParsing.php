@@ -11,6 +11,9 @@
         "ske"
     ],
     "license": "MIT",
+    "support": {
+        "source": "https://github.com/SIKessEm/SIKessEm-QueryParsing.php"
+    },
     "authors": [
         {
             "name": "SIGUI Kessé Emmanuel",
